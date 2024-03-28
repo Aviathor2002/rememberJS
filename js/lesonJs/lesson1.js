@@ -138,14 +138,14 @@
 
 // console.log(formatMessage("Curabitur ligula sapien", 16));
 
-function checkForSpam(message) {
-  let result;
-  // Change code below this line
-  result =
-    message.toLowerCase().includes("spam") ||
-    message.toLowerCase().includes("sale");
-  // Change code above this line
-  return result;
-}
+// function checkForSpam(message) {
+//   let result;
+//   // Change code below this line
+//   result =
+//     message.toLowerCase().includes("spam") ||
+//     message.toLowerCase().includes("sale");
+//   // Change code above this line
+//   return result;
+// }
 
-console.log(checkForSpam("Latest technology news"));
+// console.log(checkForSpam("Latest technology news"));
